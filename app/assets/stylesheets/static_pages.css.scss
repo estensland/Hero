@@ -1,0 +1,143 @@
+/*// Place all the styles related to the static_pages controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/*/
+
+html {
+	font-size: 110%;
+}
+
+table {
+	background-color: cornsilk;
+	border: 2px solid black;
+}
+
+thead {
+	font-size: 150%;
+}
+
+td {
+	padding-left: 4px;
+}
+
+div {
+	width: 100%;
+	float: left;
+}
+
+.FASE {
+	text-decoration: underline;
+}
+
+/*Levels Codes*/
+
+.monst {
+	color: #C408BE;
+}
+
+.amazing {
+	color: #0821C4;
+}
+
+.incredible {
+	color: #08ABC4;
+}
+
+.remarkable {
+	color: #08C49C;
+}
+
+.excellent {
+	color: #47C408;
+}
+
+.good {
+	color: #BEC408;
+}
+
+.typical {
+	color: #C48908 ;
+}
+
+.poor {
+	color: #C40808;
+}
+
+.feeble  {
+	color: #FF0000 ;
+}
+
+/* /Level Codes */
+
+.hinderance {
+	color:red;
+}
+
+.leftSide {
+	margin: 0 20px 10px 60px;
+
+}
+
+#title {
+	width: 100%;
+	text-align: center;	
+}
+
+#contacts {
+	width: 20%;
+	margin: 20px 80px 10px 0;
+	float: right;
+	display: block;
+}
+
+#description {
+	width: 90%;
+	margin-right: 40px;
+	float: left;
+	display: block;
+}
+
+#family {
+	width: 40%;
+	float: left;
+	display: block;	
+}
+
+#stats {
+	width: 38%;
+	margin: 0 20px 10px 0;
+	float: left;
+	display: block;
+}
+
+#personal {
+	width: 30%;
+	float: left;
+	display: block;
+}
+
+#powers {
+	width: 40%;
+	float: left;
+	display: block;
+}
+
+#points {
+	width: 20%;
+	margin: 20px 80px 10px 0;
+	float: right;
+	display: block;	
+	font-size: 130%;
+}
+
+#stats {
+	width: 25%;
+	margin: 0 20px 10px 0;
+	float: left;
+	display: block;
+}
+
+#talents {
+	width: 40%;
+	float: left;
+	display: block;
+}
